@@ -1,0 +1,17 @@
+.heading{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  text-align:center;
+  text-transform:uppercase;
+  margin-bottom:3rem;
+}
+
+.searcher{
+  margin:2rem 0rem;
+  text-align:left;
+}
+
+.mw500{
+  max-width:800px !important;
+}
