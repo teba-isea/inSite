@@ -11,8 +11,8 @@ function App() {
     const consultApi = async () => {
       const url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=b65044def5094b33bc13486d88bf375f`;
       const req = await fetch(url,fetch(url, {
-    mode:'no-cors'
-    method: "GET",
+    mode:'no-cors',
+    method: "GET"
   });
       const res = await req.json();
       setNews(res.articles);
