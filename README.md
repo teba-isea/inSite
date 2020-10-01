@@ -4,4 +4,4 @@ Simple example of US news application for API consumption in React Making use of
 
 You can Preview it right now by entering [here](https://insite.netlify.app/)
 
-![Preview](./preview.png)
+![Preview](./src/preview.png)
